@@ -1,3 +1,5 @@
+## Skill
+
 ### Web
 
 <img align="left" alt="Node" height="30px" src="https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white&style=flat"/>
@@ -35,7 +37,11 @@
 
 ### Computer Graphics
 
-<img align="left" alt="Vulkan" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Metal" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Vulkan" height="30px" src="https://img.shields.io/badge/-Vulkan-AC162C?logo=vulkan&logoColor=white&style=flat"/>
+<img align="left" alt="Metal" height="30px" src="https://img.shields.io/badge/-Metal-AC162C?&style=flat"/>
 
 <br/>
+
+## GitHub Stats
+
+![Gellert's GitHub stats](https://github-readme-stats.vercel.app/api?username=gellert5225&show_icons=true&theme=onedark)
