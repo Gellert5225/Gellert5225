@@ -44,6 +44,15 @@
 
 ## GitHub Stats
 
+### Contribution Stats
+
 ![Gellert's GitHub stats](https://github-readme-stats.vercel.app/api?username=gellert5225&show_icons=true&theme=onedark)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gellert5225&theme=onedark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gellert5225)](https://github.com/gellert5225/github-stats)
+
+### Language Stats
+
+<p align="center">
+  <a href="https://github.com/smir45/github-readme-streak-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gellert5225&theme=onedark&langs_count=5"/>
+  </a>
+</p>
