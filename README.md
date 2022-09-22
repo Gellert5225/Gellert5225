@@ -4,7 +4,8 @@
 
 I am a full-stack software engineer, currently fucosing on web technologies but I am also making a game engine as a hobby. 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://github.com/Gellert5225/StellarEngine-Swift)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/gellert-li-458679a5/)
+[![LinkedIn](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/gellertli/)
 
 ## Project Showcase
 
