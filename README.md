@@ -27,10 +27,10 @@
 <img align="left" alt="Swift" height="30px" src="https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white&style=flat"/>
 <img align="left" alt="Xcode" height="30px" src="https://img.shields.io/badge/-Xcode-147EFB?logo=xcode&logoColor=white&style=flat"/>
 <img align="left" alt="Emacs" height="30px" src="https://img.shields.io/badge/-Emacs-7F5AB6?logo=gnu-emacs&logoColor=white&style=flat"/>
-<img align="left" alt="Make" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Bash" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Linux" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Git" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Make" height="30px" src="https://img.shields.io/badge/-Makefile-A42E2B?logo=gnu&logoColor=white&style=flat"/>
+<img align="left" alt="Bash" height="30px" src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat"/>
+<img align="left" alt="Linux" height="30px" src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=flat"/>
+<img align="left" alt="Git" height="30px" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat"/>
 <br/>
 
 ### Computer Graphics
