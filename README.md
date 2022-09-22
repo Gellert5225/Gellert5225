@@ -62,13 +62,17 @@ I am a full-stack software engineer, currently fucosing on web technologies but 
 
 ### Contribution Stats
 
-![Gellert's GitHub stats](https://github-readme-stats.vercel.app/api?username=gellert5225&show_icons=true&theme=nord)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gellert5225&theme=nord)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://github.com/smir45/github-readme-streak-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=gellert5225&show_icons=true&theme=nord"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=gellert5225&theme=nord"/>
+  </a>
+</p>
 
 ### Language Stats
 
 <p align="center">
-  <a href="https://github.com/smir45/github-readme-streak-stats">
+  <a href="https://github.com/gellert5225/github-readme-streak-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gellert5225&theme=nord&langs_count=5"/>
   </a>
 </p>
