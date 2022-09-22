@@ -8,15 +8,15 @@
 
 ### Database
 
-<img align="left" alt="Mongo" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="SQL" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Mongo" height="30px" src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat"/>
+<img align="left" alt="SQL" height="30px" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat"/>
 <br/>
 
 ### Infrastructure
 
-<img align="left" alt="K8S" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Terraform" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Docker" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="K8S" height="30px" src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat"/>
+<img align="left" alt="Terraform" height="30px" src="https://img.shields.io/badge/-Terraform-7B42BC?logo=Terraform&logoColor=white&style=flat"/>
+<img align="left" alt="Docker" height="30px" src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=flat"/>
 <img align="left" alt="AWS" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <br/>
 
