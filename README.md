@@ -51,6 +51,7 @@ I am a full-stack software engineer, currently fucosing on web technologies but 
 <img align="left" alt="Linux" height="30px" src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=flat"/>
 <img align="left" alt="Git" height="30px" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat"/>
 <br/>
+<br/>
 
 ### Computer Graphics
 
