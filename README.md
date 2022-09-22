@@ -4,6 +4,22 @@
 
 I am a full-stack software engineer, currently fucosing on web technologies but I am also making a game engine as a hobby. 
 
+
+### My Skill Set
+* Web development
+  * NodeJS and ReactJS
+  * REST API
+* System architecture
+  * Microservice
+  * K8S
+  * API Gateway
+* Mobile development
+* Computer Graphics
+  * Vulkan API
+  * Metal API
+  * Modern rendering techniques
+  * Ray tracing
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/gellert-li-458679a5/)
 [![LinkedIn](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/gellertli/)
 ![](https://komarev.com/ghpvc/?username=gellert5225&style=flat)
@@ -15,7 +31,7 @@ I am a full-stack software engineer, currently fucosing on web technologies but 
 [![SwiftyCareer Card](https://github-readme-stats.vercel.app/api/pin/?username=gellert5225&repo=swiftycareer&theme=nord)](https://github.com/Gellert5225/SwiftyCareer)
 [![SwiftyCareer-server Card](https://github-readme-stats.vercel.app/api/pin/?username=gellert5225&repo=swiftycareer-web&theme=nord)](https://github.com/Gellert5225/swiftycareer-web)
 
-## Skills
+## Knowledge Base
 
 ### Web
 
