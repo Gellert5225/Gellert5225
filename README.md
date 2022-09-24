@@ -26,10 +26,10 @@ I am a full-stack software engineer, currently fucosing on web technologies but 
 
 ## Project Showcase
 
-[![StellarEngine Card](https://github-readme-stats.vercel.app/api/pin/?username=gellert5225&repo=stellarengine&theme=nord)](https://github.com/Gellert5225/StellarEngine)
-[![StellarEngine-swift Card](https://github-readme-stats.vercel.app/api/pin/?username=gellert5225&repo=stellarengine-swift&theme=nord)](https://github.com/Gellert5225/StellarEngine-Swift)
-[![SwiftyCareer Card](https://github-readme-stats.vercel.app/api/pin/?username=gellert5225&repo=swiftycareer&theme=nord)](https://github.com/Gellert5225/SwiftyCareer)
-[![SwiftyCareer-server Card](https://github-readme-stats.vercel.app/api/pin/?username=gellert5225&repo=swiftycareer-web&theme=nord)](https://github.com/Gellert5225/swiftycareer-web)
+[![StellarEngine Card](https://github-readme-stats-gellert.vercel.app/api/pin/?username=gellert5225&repo=stellarengine&theme=nord)](https://github.com/Gellert5225/StellarEngine)
+[![StellarEngine-swift Card](https://github-readme-stats-gellert.vercel.app/api/pin/?username=gellert5225&repo=stellarengine-swift&theme=nord)](https://github.com/Gellert5225/StellarEngine-Swift)
+[![SwiftyCareer Card](https://github-readme-stats-gellert.vercel.app/api/pin/?username=gellert5225&repo=swiftycareer&theme=nord)](https://github.com/Gellert5225/SwiftyCareer)
+[![SwiftyCareer-server Card](https://github-readme-stats-gellert.vercel.app/api/pin/?username=gellert5225&repo=swiftycareer-web&theme=nord)](https://github.com/Gellert5225/swiftycareer-web)
 
 ## Knowledge Base
 
