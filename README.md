@@ -80,7 +80,7 @@ I am a full-stack software engineer, currently fucosing on web technologies but 
 
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=gellert5225&show_icons=true&theme=nord"/>
+    <img src="https://github-readme-stats-gellert.vercel.app/api?username=gellert5225&show_icons=true&theme=nord"/>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=gellert5225&theme=nord"/>
   </a>
 </p>
@@ -89,6 +89,6 @@ I am a full-stack software engineer, currently fucosing on web technologies but 
 
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gellert5225&theme=nord&langs_count=5"/>
+    <img src="https://github-readme-stats-gellert.vercel.app/api/top-langs/?username=gellert5225&theme=nord&langs_count=5"/>
   </a>
 </p>
