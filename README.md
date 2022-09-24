@@ -26,10 +26,10 @@ I am a full-stack software engineer, currently fucosing on web technologies but 
 
 ## Project Showcase
 
-[![StellarEngine Card](https://github-readme-stats-gellert.vercel.app/api/pin/?username=gellert5225&repo=stellarengine&theme=nord)](https://github.com/Gellert5225/StellarEngine)
-[![StellarEngine-swift Card](https://github-readme-stats-gellert.vercel.app/api/pin/?username=gellert5225&repo=stellarengine-swift&theme=nord)](https://github.com/Gellert5225/StellarEngine-Swift)
-[![SwiftyCareer Card](https://github-readme-stats-gellert.vercel.app/api/pin/?username=gellert5225&repo=swiftycareer&theme=nord)](https://github.com/Gellert5225/SwiftyCareer)
-[![SwiftyCareer-server Card](https://github-readme-stats-gellert.vercel.app/api/pin/?username=gellert5225&repo=swiftycareer-web&theme=nord)](https://github.com/Gellert5225/swiftycareer-web)
+[![StellarEngine Card](https://github-readme-stats-t5b2.vercel.app/api/pin/?username=gellert5225&repo=stellarengine&theme=nord)](https://github.com/Gellert5225/StellarEngine)
+[![StellarEngine-swift Card](https://github-readme-stats-t5b2.vercel.app/api/pin/?username=gellert5225&repo=stellarengine-swift&theme=nord)](https://github.com/Gellert5225/StellarEngine-Swift)
+[![SwiftyCareer Card](https://github-readme-stats-t5b2.vercel.app/api/pin/?username=gellert5225&repo=swiftycareer&theme=nord)](https://github.com/Gellert5225/SwiftyCareer)
+[![SwiftyCareer-server Card](https://github-readme-stats-t5b2.vercel.app/api/pin/?username=gellert5225&repo=swiftycareer-web&theme=nord)](https://github.com/Gellert5225/swiftycareer-web)
 
 ## Knowledge Base
 
@@ -78,7 +78,7 @@ I am a full-stack software engineer, currently fucosing on web technologies but 
 
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-stats-gellert.vercel.app/api?username=gellert5225&show_icons=true&theme=nord"/>
+    <img src="https://github-readme-stats-t5b2.vercel.app/api?username=gellert5225&show_icons=true&theme=nord"/>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=gellert5225&theme=nord"/>
   </a>
 </p>
@@ -87,6 +87,6 @@ I am a full-stack software engineer, currently fucosing on web technologies but 
 
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-stats-gellert.vercel.app/api/top-langs/?username=gellert5225&theme=nord&langs_count=5"/>
+    <img src="https://github-readme-stats-t5b2.vercel.app/api/top-langs/?username=gellert5225&theme=nord&langs_count=5"/>
   </a>
 </p>
