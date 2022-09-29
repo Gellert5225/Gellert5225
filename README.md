@@ -90,3 +90,13 @@ I am a full-stack software engineer, currently fucosing on web technologies but 
     <img src="https://github-readme-stats-t5b2.vercel.app/api/top-langs/?username=gellert5225&theme=nord&langs_count=5"/>
   </a>
 </p>
+
+## More about me
+
+I went to university at University of Birmingham, England in 2013, and that was when I first started coding. I made my first iOS app using Swift in 2014, and made my first website in 2015. 
+
+Later I decided to transfer to US college, so I started again from a community college in California then transferred to University of California, Riverside. I graduated in 2022. 
+
+I like working on low level technologies such as operating systems and graphics APIs. 
+
+My hobbies are Olympic style archery, gaming, scale model, and of course, programming. 
