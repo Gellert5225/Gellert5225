@@ -100,3 +100,5 @@ Later I decided to transfer to US college, so I started again from a community c
 I like working on low level technologies such as operating systems and graphics APIs. 
 
 My hobbies are Olympic style archery, gaming, scale model, and of course, programming. 
+
+My favourite language: C++.
