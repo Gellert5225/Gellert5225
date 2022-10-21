@@ -1,6 +1,6 @@
 # :bow_and_arrow: Gellert Li
 
-## `{Coder, Gamer, Archer}`
+## `{Coder, Gamer, Archer};`
 
 I am a full-stack software engineer, currently fucosing on web technologies but I am also making a game engine as a hobby. 
 
