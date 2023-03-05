@@ -61,6 +61,7 @@ I am a full-stack software engineer, currently fucosing on web technologies but 
 <img align="left" alt="CPP" height="25px" src="https://img.shields.io/badge/-C++-3b4252?logo=c%2B%2B&logoColor=white&style=flat"/>
 <img align="left" alt="Swift" height="25px" src="https://img.shields.io/badge/-Swift-3b4252?logo=swift&logoColor=white&style=flat"/>
 <img align="left" alt="Make" height="25px" src="https://img.shields.io/badge/-Makefile-3b4252?logo=gnu&logoColor=white&style=flat"/>
+<img align="left" alt="CMake" height="25px" src="https://img.shields.io/badge/-CMake-3b4252?logo=cmake&logoColor=white&style=flat"/>
 <img align="left" alt="Linux" height="25px" src="https://img.shields.io/badge/-Linux-3b4252?logo=linux&logoColor=white&style=flat"/>
 <img align="left" alt="Git" height="25px" src="https://img.shields.io/badge/-Git-3b4252?logo=git&logoColor=white&style=flat"/>
 <br/>
