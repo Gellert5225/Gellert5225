@@ -2,7 +2,7 @@
 
 ## `{Coder, Gamer, Archer};`
 
-I am a full-stack software engineer, currently fucosing on web technologies but I am also making a game engine as a hobby. 
+I am a 3D Graphics software engineer, currently fucosing on CAD/CAM software but I am also making a game engine as a hobby. 
 
 
 ### My Skill Set
