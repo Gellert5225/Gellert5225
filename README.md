@@ -88,7 +88,7 @@ I am a 3D Graphics software engineer, currently fucosing on CAD/CAM software but
 
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-stats-t5b2.vercel.app/api/top-langs/?username=gellert5225&theme=nord&langs_count=5"/>
+    <img src="https://github-readme-stats-t5b2.vercel.app/api/top-langs/?username=gellert5225&theme=nord&langs_count=5&count_private=true"/>
   </a>
 </p>
 
