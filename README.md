@@ -28,8 +28,7 @@ I am a 3D Graphics software engineer, currently fucosing on CAD/CAM software but
 
 [![StellarEngine Card](https://github-readme-stats-t5b2.vercel.app/api/pin/?username=gellert5225&repo=stellarengine&theme=nord)](https://github.com/Gellert5225/StellarEngine)
 [![StellarEngine-swift Card](https://github-readme-stats-t5b2.vercel.app/api/pin/?username=gellert5225&repo=stellarengine-swift&theme=nord)](https://github.com/Gellert5225/StellarEngine-Swift)
-[![SwiftyCareer Card](https://github-readme-stats-t5b2.vercel.app/api/pin/?username=gellert5225&repo=swiftycareer&theme=nord)](https://github.com/Gellert5225/SwiftyCareer)
-[![SwiftyCareer-server Card](https://github-readme-stats-t5b2.vercel.app/api/pin/?username=gellert5225&repo=swiftycareer-web&theme=nord)](https://github.com/Gellert5225/swiftycareer-web)
+[![SwiftyCareer Card](https://github-readme-stats-t5b2.vercel.app/api/pin/?username=gellert5225&repo=swiftycareer-react&theme=nord)](https://github.com/Gellert5225/swiftycareer-react)
 
 ## Knowledge Base
 
